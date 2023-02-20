@@ -1,2 +1,5 @@
 ис, бд/субд: http://repo.ssau.ru/bitstream/Uchebnye-izdaniya/Osnovy-proektirovaniya-baz-dannyh-Elektronnyi-resurs-ucheb-posobie-80353/1/Попова-Коварцева%20Д.А.%2C%20Сопченко%20Е.В.%20Основы%20проектирования%20баз%20данных%202019.pdf
 литература: https://topuch.com/o-nalichii-pechatnih-i-elektronnih-obrazovatelenih-i-informaci/index14.html
+
+Пожалуйста, не забудьте правильно оформить цитату:
+Кулькин, Д. В. Выбор языка программирования для разработки серверной части веб-приложения / Д. В. Кулькин. — Текст : непосредственный // Молодой ученый. — 2021. — № 41 (383). — С. 9-12. — URL: https://moluch.ru/archive/383/84390/ (дата обращения: 20.02.2023).

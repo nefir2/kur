@@ -1,0 +1,3 @@
+[submodule "restaurant-kur"]
+	path = program
+	url = https://github.com/nefir2/restaurant-kur.git

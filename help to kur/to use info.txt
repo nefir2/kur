@@ -24,3 +24,5 @@
 
 генератор фирм: https://generatefakename.com/ru/business-name/ru/ru
 генератор имён: https://www.random1.ru/generator-sluchajnyh-adresov-rossii/
+
+ПОНЯТИЕ ИНФОРМАЦИОННОЙ СИСТЕМЫ: https://cde.osu.ru/demoversion/course157/text/1.5.html
